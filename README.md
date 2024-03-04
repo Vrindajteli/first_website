@@ -1,0 +1,1 @@
+This website is about a company named CaratLove(not real). The customer can basically view the items and their prices. I have not included any JavaScript as I currently not really great with it. But, as this is my first ever project, I am proud of my humble beginnings.
